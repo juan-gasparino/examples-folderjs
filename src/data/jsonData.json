@@ -1,0 +1,108 @@
+[{
+    "LinkFile":null,
+    "NodeName":"Informes",
+    "NodeParent":"\\documents",
+    "PathUrl":null,"isDocument":false
+},{
+    "LinkFile":"http:\\webserverapi.azurewebsites.net\\documents\\Informes\\documents1.pdf",
+    "NodeName":"documents1.pdf",
+    "NodeParent":"\\documents\\Informes",
+    "PathUrl":"\\Informes\\documents1.pdf",
+    "isDocument":true
+},{
+    "LinkFile":"http:\\webserverapi.azurewebsites.net\\documents\\Informes\\documents2.pdf",
+    "NodeName":"documents2.pdf",
+    "NodeParent":"\\documents\\Informes",
+    "PathUrl":"\\Informes\\documents2.pdf",
+    "isDocument":true
+},{
+    "LinkFile":null,
+    "NodeName":"USA",
+    "NodeParent":"\\documents\\Informes",
+    "PathUrl":null,
+    "isDocument":false
+},{
+    "LinkFile":"http:\\webserverapi.azurewebsites.net\\documents\\Informes\\USA\\metodo de violino laoureux 1.pdf",
+    "NodeName":"metodo de violino laoureux 1.pdf",
+    "NodeParent":"\\documents\\Informes\\USA",
+    "PathUrl":"\\Informes\\USA\\metodo de violino laoureux 1.pdf",
+    "isDocument":true
+},{
+    "LinkFile":null,
+    "NodeName":"Ventas",
+    "NodeParent":"\\documents",
+    "PathUrl":null,
+    "isDocument":false
+},{
+    "LinkFile":"http:\\webserverapi.azurewebsites.net\\documents\\Ventas\\documents1.docx",
+    "NodeName":"documents1.docx",
+    "NodeParent":"\\documents\\Ventas",
+    "PathUrl":"\\Ventas\\documents1.docx",
+    "isDocument":true
+},{
+    "LinkFile":"http:\\webserverapi.azurewebsites.net\\documents\\Ventas\\documents2.docx",
+    "NodeName":"documents2.docx",
+    "NodeParent":"\\documents\\Ventas",
+    "PathUrl":"\\Ventas\\documents2.docx",
+    "isDocument":true
+},{
+    "LinkFile":null,
+    "NodeName":"Administracion",
+    "NodeParent":"\\documents",
+    "PathUrl":null,
+    "isDocument":false
+},{
+    "LinkFile":"http:\\webserverapi.azurewebsites.net\\documents\\Administracion\\test1.xlsx",
+    "NodeName":"test1.xlsx",
+    "NodeParent":"\\documents\\Administracion",
+    "PathUrl":"\\Administracion\\test1.xlsx",
+    "isDocument":true
+},{
+    "LinkFile":"http:\\webserverapi.azurewebsites.net\\documents\\Administracion\\test2.xlsx",
+    "NodeName":"test2.xlsx",
+    "NodeParent":"\\documents\\Administracion",
+    "PathUrl":"\\Administracion\\test2.xlsx",
+    "isDocument":true
+},{
+    "LinkFile":null,
+    "NodeName":"Presentaciones",
+    "NodeParent":"\\documents",
+    "PathUrl":null,
+    "isDocument":false
+},{
+    "LinkFile":null,
+    "NodeName":"Barcelona",
+    "NodeParent":"\\documents\\Presentaciones",
+    "PathUrl":null,
+    "isDocument":false
+},{
+    "LinkFile":null,
+    "NodeName":"2019",
+    "NodeParent":"\\documents\\Presentaciones\\Barcelona",
+    "PathUrl":null,
+    "isDocument":false
+},{
+    "LinkFile":"http:\\webserverapi.azurewebsites.net\\documents\\Presentaciones\\Barcelona\\2019\\test.pptx",
+    "NodeName":"test.pptx",
+    "NodeParent":"\\documents\\Presentaciones\\Barcelona\\2019",
+    "PathUrl":"\\Presentaciones\\Barcelona\\2019\\test.pptx",
+    "isDocument":true
+},{
+    "LinkFile":"http:\\webserverapi.azurewebsites.net\\documents\\test.txt",
+    "NodeName":"test.txt",
+    "NodeParent":"\\documents",
+    "PathUrl":"\\test.txt",
+    "isDocument":true
+},{
+    "LinkFile":null,
+    "NodeName":"otros",
+    "NodeParent":"\\documents",
+    "PathUrl":null,
+    "isDocument":false
+},{
+    "LinkFile":"http:\\webserverapi.azurewebsites.net\\documents\\otros\\test.txt",
+    "NodeName":"test.txt",
+    "NodeParent":"\\documents\\otros",
+    "PathUrl":"\\otros\\test.txt",
+    "isDocument":true
+}]
